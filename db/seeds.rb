@@ -22,9 +22,4 @@ puts "Creating reviews..."
 # * and a review belongs to an user.                              *
 # *****************************************************************
 # Create Reviews Here
-:comment
-      t.references :user, foreign_key: true
-      t.references :product, foreign_key: true
-      t.timestamps
-
 puts "Seeding done!"
