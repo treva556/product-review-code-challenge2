@@ -22,4 +22,5 @@ puts "Creating reviews..."
 # * and a review belongs to an user.                              *
 # *****************************************************************
 # Create Reviews Here
+
 puts "Seeding done!"
