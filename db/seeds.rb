@@ -10,11 +10,11 @@ user2 = User.create(name: Faker::Name.name)
 user3 = User.create(name: Faker::Name.name)
 
 puts "Creating products..."
-product1 = Product.create(name: "", price: 10.1)
-product2 = Product.create(name: "Whiteboard", price: 15.7)
-product3 = Product.create(name: "Dry Erase Markers", price: 5.5)
-product4 = Product.create(name: "Ballpoint Pens", price: 2.0)
-product5 = Product.create(name: "Scotch Tape", price: 3.0)
+product1 = Product.create(name: "hair gel", price: 10.1)
+product2 = Product.create(name: "toy gun", price: 15.7)
+product3 = Product.create(name: "water bottle", price: 5.5)
+product4 = Product.create(name: "ceramic cup", price: 2.0)
+product5 = Product.create(name: "pillow case", price: 3.0)
 
 puts "Creating reviews..."
 # *****************************************************************
