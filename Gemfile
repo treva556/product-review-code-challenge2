@@ -6,3 +6,4 @@ gem "sqlite3"
 gem "pry"
 gem "require_all"
 gem "faker", "~> 2.10"
+gem 'rake', '~> 13.0', '>= 13.0.6'

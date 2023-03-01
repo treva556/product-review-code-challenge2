@@ -29,6 +29,7 @@ GEM
     rack (2.2.6.2)
     rack-protection (3.0.5)
       rack
+    rake (13.0.6)
     require_all (3.0.0)
     ruby2_keywords (0.0.5)
     sinatra (3.0.5)
@@ -52,6 +53,7 @@ DEPENDENCIES
   activerecord (~> 5.2)
   faker (~> 2.10)
   pry
+  rake (~> 13.0, >= 13.0.6)
   require_all
   sinatra-activerecord
   sqlite3
