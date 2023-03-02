@@ -19,7 +19,7 @@ product5 = Product.create(name: "pillow case", price: 3.0)
 puts "Creating reviews..."
 # *****************************************************************
 # * TODO: create reviews! Remember, a review belongs to a product *
-# * and a review belongs to an user.                              *
+# * and a review belongs to an user.   mm                           *
 # *****************************************************************
 # Create Reviews Here
 
